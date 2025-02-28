@@ -35,9 +35,9 @@ Most of the projects on this Git account are private, but feel free to reach out
 
 Here are a few examples of the projects I have worked on:
 
-- **42sh**: A custom shell implementation with advanced features like AST parsing and command execution.
+- **42sh**: A custom shell implementation in C with advanced features like AST parsing and command execution.
 - **Bittorrent**: A lightweight BitTorrent client with a focus on metadata parsing and efficient file handling.
-- **epoll_server**: A high-performance server implementation using epoll for managing multiple connections.
+- **Tiger**: A ompiler in C++, following the front-end/middle-end/back-end architecture, including lexical analysis, parsing...
 - **malloc**: A custom memory allocator built from scratch, including implementations for `malloc`, `free`, and `realloc`.
 - **myfind**: A command-line utility similar to `find`, capable of parsing complex queries and generating an abstract syntax tree (AST).
 
