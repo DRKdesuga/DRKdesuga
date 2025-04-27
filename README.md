@@ -37,7 +37,7 @@ Here are a few examples of the projects I have worked on:
 
 - **42sh**: A custom shell implementation in C with advanced features like AST parsing and command execution.
 - **Bittorrent**: A lightweight BitTorrent client with a focus on metadata parsing and efficient file handling.
-- **Tiger**: A ompiler in C++, following the front-end/middle-end/back-end architecture, including lexical analysis, parsing...
+- **Tiger**: A compiler in C++, following the front-end/middle-end/back-end architecture, including lexical analysis, parsing...
 - **malloc**: A custom memory allocator built from scratch, including implementations for `malloc`, `free`, and `realloc`.
 - **myfind**: A command-line utility similar to `find`, capable of parsing complex queries and generating an abstract syntax tree (AST).
 
